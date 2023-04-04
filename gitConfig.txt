@@ -1,0 +1,5 @@
+//copy from git config website
+//to specify who's using the git bash we use below git commands
+
+git config --global user.name "John Doe"
+git config --global user.email johndoe@example.com
